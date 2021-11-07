@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulyadavg
+- 👋 Hi, I’m @rahulyadav
 - 👀 I’m interested in Coding and Development(Android and Web)
 - 🌱 I’m currently learning Flutter Development
 - 💞️ I’m looking to collaborate on LinkedIn
